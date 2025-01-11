@@ -1,5 +1,3 @@
 {
-  "build": {
-    "distDir": "dist"
-  }
+  "build"
 }
